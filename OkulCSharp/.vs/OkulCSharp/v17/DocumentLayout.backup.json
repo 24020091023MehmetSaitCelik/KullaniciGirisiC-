@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\ogrencipanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:ogrencipanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\ogrencipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:ogrencipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\admingiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:admingiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\ogrencigiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:ogrencigiris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|c:\\users\\mehmet sait\\source\\repos\\okulcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F357099-0E44-4916-AF8E-78CA25A7B22B}|OkulCSharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciPanel.Designer.cs",
+              "RelativeDocumentMoniker": "OgrenciPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciPanel.Designer.cs",
+              "RelativeToolTip": "OgrenciPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:19:16.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminPanel.Designer.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Designer.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminPanel.Designer.cs",
+              "RelativeToolTip": "AdminPanel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:18:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminGiris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminGiris.Designer.cs",
+              "RelativeDocumentMoniker": "AdminGiris.Designer.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminGiris.Designer.cs",
+              "RelativeToolTip": "AdminGiris.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:17:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciGiris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciGiris.Designer.cs",
+              "RelativeDocumentMoniker": "OgrenciGiris.Designer.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciGiris.Designer.cs",
+              "RelativeToolTip": "OgrenciGiris.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:16:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:12:40.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:11:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciPanel.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciPanel.cs",
+              "RelativeDocumentMoniker": "OgrenciPanel.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciPanel.cs",
+              "RelativeToolTip": "OgrenciPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:03:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "AdminPanel.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminPanel.cs",
+              "RelativeToolTip": "AdminPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:03:04.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OgrenciGiris.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciGiris.cs",
+              "RelativeDocumentMoniker": "OgrenciGiris.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\OgrenciGiris.cs",
+              "RelativeToolTip": "OgrenciGiris.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:02:49.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminGiris.cs",
+              "RelativeDocumentMoniker": "AdminGiris.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\AdminGiris.cs",
+              "RelativeToolTip": "AdminGiris.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:02:29.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\MEHMET SAIT\\source\\repos\\OkulCSharp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:01:01.306Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

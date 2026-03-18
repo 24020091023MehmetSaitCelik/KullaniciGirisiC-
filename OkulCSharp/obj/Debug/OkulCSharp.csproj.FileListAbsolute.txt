@@ -1,0 +1,13 @@
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\bin\Debug\OkulCSharp.exe.config
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\bin\Debug\OkulCSharp.exe
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\bin\Debug\OkulCSharp.pdb
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.xml
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.csproj.AssemblyReference.cache
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.Properties.Resources.resources
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.csproj.GenerateResource.cache
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.csproj.Up2Date
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.exe
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.pdb
+C:\Users\MEHMET SAIT\source\repos\OkulCSharp\obj\Debug\OkulCSharp.Form1.resources
